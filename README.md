@@ -8,6 +8,7 @@
 
 - [О проекте](#о-проекте)
 - [Игры](#игры)
+- [Скриншоты](#скриншоты)
 - [Установка и запуск](#установка-и-запуск)
 - [Управление](#управление)
 - [Система достижений](#система-достижений)
@@ -129,7 +130,8 @@ dotnet run --project ArcadeHub
 **skywoxxtyyy**
 
 - Twitch: [twitch.tv/skywoxxtyyy](https://www.twitch.tv/skywoxxtyyy)
-- GitHub: [github.com/skywoxxtyyy](https://github.com/skywoxxtyy)
+- GitHub: [github.com/skywoxxtyyy](https://github.com/skywoxxtyyy)
+- Донат: [donationalerts.com/r/skywoxxtyyy](https://www.donationalerts.com/r/skywoxxtyyy)
 
 ---
 
