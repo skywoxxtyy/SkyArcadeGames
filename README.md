@@ -130,7 +130,7 @@ dotnet run --project ArcadeHub
 **skywoxxtyyy**
 
 - Twitch: [twitch.tv/skywoxxtyyy](https://www.twitch.tv/skywoxxtyyy)
-- GitHub: [github.com/skywoxxtyyy](https://github.com/skywoxxtyyy)
+- GitHub: [github.com/skywoxxtyyy](https://github.com/skywoxxtyy)
 
 ---
 
